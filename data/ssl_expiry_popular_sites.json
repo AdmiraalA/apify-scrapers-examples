@@ -1,0 +1,452 @@
+[
+ {
+  "host": "facebook.com",
+  "daysLeft": 7,
+  "validTo": "2026-10-31T23:59:59+00:00",
+  "issuerOrg": "DigiCert Inc",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "instagram.com",
+  "daysLeft": 7,
+  "validTo": "2026-10-31T23:59:59+00:00",
+  "issuerOrg": "DigiCert Inc",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "whatsapp.com",
+  "daysLeft": 7,
+  "validTo": "2026-10-31T23:59:59+00:00",
+  "issuerOrg": "DigiCert Inc",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "paypal.com",
+  "daysLeft": 32,
+  "validTo": "2026-11-25T23:59:59+00:00",
+  "issuerOrg": "DigiCert Inc",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "bol.com",
+  "daysLeft": 35,
+  "validTo": "2026-11-28T09:56:27+00:00",
+  "issuerOrg": "Let's Encrypt",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "github.com",
+  "daysLeft": 36,
+  "validTo": "2026-11-29T23:59:59+00:00",
+  "issuerOrg": "Sectigo Limited",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "tiktok.com",
+  "daysLeft": 40,
+  "validTo": "2026-12-03T23:59:59+00:00",
+  "issuerOrg": "DigiCert Inc",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "aliexpress.com",
+  "daysLeft": 40,
+  "validTo": "2026-12-03T11:16:15+00:00",
+  "issuerOrg": "GlobalSign nv-sa",
+  "tlsVersion": "TLSv1.2",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "medium.com",
+  "daysLeft": 41,
+  "validTo": "2026-12-04T21:48:00+00:00",
+  "issuerOrg": "Google Trust Services",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "cloudflare.com",
+  "daysLeft": 41,
+  "validTo": "2026-12-04T23:29:33+00:00",
+  "issuerOrg": "Google Trust Services",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "openai.com",
+  "daysLeft": 51,
+  "validTo": "2026-12-15T05:59:47+00:00",
+  "issuerOrg": "Google Trust Services",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "google.com",
+  "daysLeft": 58,
+  "validTo": "2026-12-21T18:38:32+00:00",
+  "issuerOrg": "Google Trust Services",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "youtube.com",
+  "daysLeft": 58,
+  "validTo": "2026-12-21T18:38:32+00:00",
+  "issuerOrg": "Google Trust Services",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "apple.com",
+  "daysLeft": 60,
+  "validTo": "2026-12-23T19:10:23+00:00",
+  "issuerOrg": "Apple Inc.",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "x.com",
+  "daysLeft": 64,
+  "validTo": "2026-12-27T20:09:53+00:00",
+  "issuerOrg": "Let's Encrypt",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "zoom.us",
+  "daysLeft": 66,
+  "validTo": "2026-12-29T23:59:59+00:00",
+  "issuerOrg": "DigiCert Inc",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "yahoo.com",
+  "daysLeft": 67,
+  "validTo": "2026-12-30T23:59:59+00:00",
+  "issuerOrg": "DigiCert Inc",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "wikipedia.org",
+  "daysLeft": 70,
+  "validTo": "2027-01-02T18:34:50+00:00",
+  "issuerOrg": "Let's Encrypt",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "adobe.com",
+  "daysLeft": 72,
+  "validTo": "2027-01-04T23:59:59+00:00",
+  "issuerOrg": "DigiCert Inc",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "slack.com",
+  "daysLeft": 72,
+  "validTo": "2027-01-05T08:37:07+00:00",
+  "issuerOrg": "Let's Encrypt",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "shopify.com",
+  "daysLeft": 74,
+  "validTo": "2027-01-06T20:15:23+00:00",
+  "issuerOrg": "Google Trust Services",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "notion.so",
+  "daysLeft": 77,
+  "validTo": "2027-01-10T00:40:01+00:00",
+  "issuerOrg": "Google Trust Services",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "stackoverflow.com",
+  "daysLeft": 79,
+  "validTo": "2027-01-11T12:11:49+00:00",
+  "issuerOrg": "Let's Encrypt",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "spotify.com",
+  "daysLeft": 91,
+  "validTo": "2027-01-23T23:59:59+00:00",
+  "issuerOrg": "DigiCert Inc",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "bbc.co.uk",
+  "daysLeft": 91,
+  "validTo": "2027-01-24T05:46:23+00:00",
+  "issuerOrg": "GlobalSign nv-sa",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "bing.com",
+  "daysLeft": 92,
+  "validTo": "2027-01-25T08:39:09+00:00",
+  "issuerOrg": "Microsoft Corporation",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "airbnb.com",
+  "daysLeft": 96,
+  "validTo": "2027-01-28T23:59:59+00:00",
+  "issuerOrg": "DigiCert Inc",
+  "tlsVersion": "TLSv1.2",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "microsoft.com",
+  "daysLeft": 98,
+  "validTo": "2027-01-30T14:50:49+00:00",
+  "issuerOrg": "Microsoft Corporation",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "walmart.com",
+  "daysLeft": 110,
+  "validTo": "2027-02-11T09:58:01+00:00",
+  "issuerOrg": "GlobalSign nv-sa",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "marktplaats.nl",
+  "daysLeft": 114,
+  "validTo": "2027-02-15T23:59:59+00:00",
+  "issuerOrg": "Amazon",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "reddit.com",
+  "daysLeft": 115,
+  "validTo": "2027-02-16T23:59:59+00:00",
+  "issuerOrg": "DigiCert Inc",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "netflix.com",
+  "daysLeft": 117,
+  "validTo": "2027-02-18T21:41:48+00:00",
+  "issuerOrg": "DigiCert Inc",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "imdb.com",
+  "daysLeft": 117,
+  "validTo": "2027-02-18T23:59:59+00:00",
+  "issuerOrg": "Amazon",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "nu.nl",
+  "daysLeft": 119,
+  "validTo": "2027-02-20T23:59:59+00:00",
+  "issuerOrg": "DigiCert Inc",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "coolblue.nl",
+  "daysLeft": 123,
+  "validTo": "2027-02-24T23:59:59+00:00",
+  "issuerOrg": "Amazon",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "pinterest.com",
+  "daysLeft": 125,
+  "validTo": "2027-02-26T23:59:59+00:00",
+  "issuerOrg": "DigiCert Inc",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "ing.nl",
+  "daysLeft": 140,
+  "validTo": "2027-03-13T14:37:23+00:00",
+  "issuerOrg": "IdenTrust",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "ns.nl",
+  "daysLeft": 141,
+  "validTo": "2027-03-14T23:59:59+00:00",
+  "issuerOrg": "DigiCert Inc",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "kpn.com",
+  "daysLeft": 141,
+  "validTo": "2027-03-14T23:59:59+00:00",
+  "issuerOrg": "Sectigo Limited",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "nytimes.com",
+  "daysLeft": 146,
+  "validTo": "2027-03-19T23:59:59+00:00",
+  "issuerOrg": "DigiCert Inc",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "cnn.com",
+  "daysLeft": 148,
+  "validTo": "2027-03-21T10:00:42+00:00",
+  "issuerOrg": "GlobalSign nv-sa",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "amazon.com",
+  "daysLeft": 163,
+  "validTo": "2027-04-05T23:59:59+00:00",
+  "issuerOrg": "DigiCert Inc",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "salesforce.com",
+  "daysLeft": 167,
+  "validTo": "2027-04-09T23:59:59+00:00",
+  "issuerOrg": "DigiCert Inc",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "twitch.tv",
+  "daysLeft": 170,
+  "validTo": "2027-04-12T19:50:18+00:00",
+  "issuerOrg": "GlobalSign nv-sa",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "dropbox.com",
+  "daysLeft": 175,
+  "validTo": "2027-04-17T23:59:59+00:00",
+  "issuerOrg": "DigiCert Inc",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "rabobank.nl",
+  "daysLeft": 179,
+  "validTo": "2027-04-21T23:59:59+00:00",
+  "issuerOrg": "Sectigo Limited",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "linkedin.com",
+  "daysLeft": 180,
+  "validTo": "2027-04-22T23:59:59+00:00",
+  "issuerOrg": "DigiCert Inc",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "ebay.com",
+  "daysLeft": 180,
+  "validTo": "2027-04-22T23:59:59+00:00",
+  "issuerOrg": "Sectigo Limited",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "booking.com",
+  "daysLeft": 180,
+  "validTo": "2027-04-22T23:59:59+00:00",
+  "issuerOrg": "DigiCert Inc",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "etsy.com",
+  "daysLeft": 196,
+  "validTo": "2027-05-08T14:14:06+00:00",
+  "issuerOrg": "GlobalSign nv-sa",
+  "tlsVersion": "TLSv1.2",
+  "chainValid": true,
+  "hostnameMatch": true
+ }
+]

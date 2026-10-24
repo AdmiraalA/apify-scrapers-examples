@@ -1,0 +1,110 @@
+[
+ {
+  "channel": "TED",
+  "handle": "@TED",
+  "subscribers": 27900000,
+  "videos": 5867,
+  "total_views": 3262671309,
+  "country": "United States",
+  "url": "https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug"
+ },
+ {
+  "channel": "Kurzgesagt – In a Nutshell",
+  "handle": "@kurzgesagt",
+  "subscribers": 25700000,
+  "videos": 394,
+  "total_views": 3969525522,
+  "country": "Germany",
+  "url": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q"
+ },
+ {
+  "channel": "Marques Brownlee",
+  "handle": "@mkbhd",
+  "subscribers": 21400000,
+  "videos": 1861,
+  "total_views": 5822734699,
+  "country": "United States",
+  "url": "https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"
+ },
+ {
+  "channel": "Veritasium",
+  "handle": "@veritasium",
+  "subscribers": 21400000,
+  "videos": 543,
+  "total_views": 4689286756,
+  "country": "United States",
+  "url": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA"
+ },
+ {
+  "channel": "Apple",
+  "handle": "@Apple",
+  "subscribers": 21100000,
+  "videos": 222,
+  "total_views": 1165743225,
+  "country": "United States",
+  "url": "https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw"
+ },
+ {
+  "channel": "Linus Tech Tips",
+  "handle": "@LinusTechTips",
+  "subscribers": 16900000,
+  "videos": 7964,
+  "total_views": 9934332016,
+  "country": "Canada",
+  "url": "https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw"
+ },
+ {
+  "channel": "3Blue1Brown",
+  "handle": "@3blue1brown",
+  "subscribers": 8720000,
+  "videos": 246,
+  "total_views": 788183470,
+  "country": "United States",
+  "url": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"
+ },
+ {
+  "channel": "Fireship",
+  "handle": "@Fireship",
+  "subscribers": 4310000,
+  "videos": 857,
+  "total_views": 787094178,
+  "country": "United States",
+  "url": "https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA"
+ },
+ {
+  "channel": "Google for Developers",
+  "handle": "@GoogleDevelopers",
+  "subscribers": 2680000,
+  "videos": 6120,
+  "total_views": 366512479,
+  "country": "United States",
+  "url": "https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw"
+ },
+ {
+  "channel": "NVIDIA",
+  "handle": "@NVIDIA",
+  "subscribers": 2250000,
+  "videos": 2776,
+  "total_views": 631504804,
+  "country": "United States",
+  "url": "https://www.youtube.com/channel/UCHuiy8bXnmK5nisYHUd1J5g"
+ },
+ {
+  "channel": "OpenAI",
+  "handle": "@OpenAI",
+  "subscribers": 2100000,
+  "videos": 880,
+  "total_views": 279613527,
+  "country": "United States",
+  "url": "https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A"
+ },
+ {
+  "channel": "Two Minute Papers",
+  "handle": "@TwoMinutePapers",
+  "subscribers": 1840000,
+  "videos": 1104,
+  "total_views": 172979318,
+  "country": "Hungary",
+  "url": "https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg"
+ }
+]
