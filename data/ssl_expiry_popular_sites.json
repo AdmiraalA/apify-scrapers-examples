@@ -1,8 +1,8 @@
 [
  {
   "host": "facebook.com",
-  "daysLeft": 7,
-  "validTo": "2026-10-31T23:59:59+00:00",
+  "daysLeft": 8,
+  "validTo": "2026-11-01T23:59:59+00:00",
   "issuerOrg": "DigiCert Inc",
   "tlsVersion": "TLSv1.3",
   "chainValid": true,
@@ -10,8 +10,8 @@
  },
  {
   "host": "instagram.com",
-  "daysLeft": 7,
-  "validTo": "2026-10-31T23:59:59+00:00",
+  "daysLeft": 8,
+  "validTo": "2026-11-01T23:59:59+00:00",
   "issuerOrg": "DigiCert Inc",
   "tlsVersion": "TLSv1.3",
   "chainValid": true,
@@ -19,17 +19,8 @@
  },
  {
   "host": "whatsapp.com",
-  "daysLeft": 7,
-  "validTo": "2026-10-31T23:59:59+00:00",
-  "issuerOrg": "DigiCert Inc",
-  "tlsVersion": "TLSv1.3",
-  "chainValid": true,
-  "hostnameMatch": true
- },
- {
-  "host": "paypal.com",
-  "daysLeft": 32,
-  "validTo": "2026-11-25T23:59:59+00:00",
+  "daysLeft": 8,
+  "validTo": "2026-11-01T23:59:59+00:00",
   "issuerOrg": "DigiCert Inc",
   "tlsVersion": "TLSv1.3",
   "chainValid": true,
@@ -37,7 +28,7 @@
  },
  {
   "host": "bol.com",
-  "daysLeft": 35,
+  "daysLeft": 34,
   "validTo": "2026-11-28T09:56:27+00:00",
   "issuerOrg": "Let's Encrypt",
   "tlsVersion": "TLSv1.3",
@@ -54,20 +45,20 @@
   "hostnameMatch": true
  },
  {
+  "host": "aliexpress.com",
+  "daysLeft": 39,
+  "validTo": "2026-12-03T11:16:15+00:00",
+  "issuerOrg": "GlobalSign nv-sa",
+  "tlsVersion": "TLSv1.2",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
   "host": "tiktok.com",
   "daysLeft": 40,
   "validTo": "2026-12-03T23:59:59+00:00",
   "issuerOrg": "DigiCert Inc",
   "tlsVersion": "TLSv1.3",
-  "chainValid": true,
-  "hostnameMatch": true
- },
- {
-  "host": "aliexpress.com",
-  "daysLeft": 40,
-  "validTo": "2026-12-03T11:16:15+00:00",
-  "issuerOrg": "GlobalSign nv-sa",
-  "tlsVersion": "TLSv1.2",
   "chainValid": true,
   "hostnameMatch": true
  },
@@ -85,6 +76,15 @@
   "daysLeft": 41,
   "validTo": "2026-12-04T23:29:33+00:00",
   "issuerOrg": "Google Trust Services",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "x.com",
+  "daysLeft": 46,
+  "validTo": "2026-12-10T03:08:18+00:00",
+  "issuerOrg": "Let's Encrypt",
   "tlsVersion": "TLSv1.3",
   "chainValid": true,
   "hostnameMatch": true
@@ -121,15 +121,6 @@
   "daysLeft": 60,
   "validTo": "2026-12-23T19:10:23+00:00",
   "issuerOrg": "Apple Inc.",
-  "tlsVersion": "TLSv1.3",
-  "chainValid": true,
-  "hostnameMatch": true
- },
- {
-  "host": "x.com",
-  "daysLeft": 64,
-  "validTo": "2026-12-27T20:09:53+00:00",
-  "issuerOrg": "Let's Encrypt",
   "tlsVersion": "TLSv1.3",
   "chainValid": true,
   "hostnameMatch": true
@@ -199,7 +190,7 @@
  },
  {
   "host": "stackoverflow.com",
-  "daysLeft": 79,
+  "daysLeft": 78,
   "validTo": "2027-01-11T12:11:49+00:00",
   "issuerOrg": "Let's Encrypt",
   "tlsVersion": "TLSv1.3",
@@ -244,7 +235,7 @@
  },
  {
   "host": "microsoft.com",
-  "daysLeft": 98,
+  "daysLeft": 97,
   "validTo": "2027-01-30T14:50:49+00:00",
   "issuerOrg": "Microsoft Corporation",
   "tlsVersion": "TLSv1.3",
@@ -253,7 +244,7 @@
  },
  {
   "host": "walmart.com",
-  "daysLeft": 110,
+  "daysLeft": 109,
   "validTo": "2027-02-11T09:58:01+00:00",
   "issuerOrg": "GlobalSign nv-sa",
   "tlsVersion": "TLSv1.3",
@@ -325,7 +316,7 @@
  },
  {
   "host": "ing.nl",
-  "daysLeft": 140,
+  "daysLeft": 139,
   "validTo": "2027-03-13T14:37:23+00:00",
   "issuerOrg": "IdenTrust",
   "tlsVersion": "TLSv1.3",
@@ -361,7 +352,7 @@
  },
  {
   "host": "cnn.com",
-  "daysLeft": 148,
+  "daysLeft": 147,
   "validTo": "2027-03-21T10:00:42+00:00",
   "issuerOrg": "GlobalSign nv-sa",
   "tlsVersion": "TLSv1.3",
@@ -381,6 +372,15 @@
   "host": "salesforce.com",
   "daysLeft": 167,
   "validTo": "2027-04-09T23:59:59+00:00",
+  "issuerOrg": "DigiCert Inc",
+  "tlsVersion": "TLSv1.3",
+  "chainValid": true,
+  "hostnameMatch": true
+ },
+ {
+  "host": "paypal.com",
+  "daysLeft": 168,
+  "validTo": "2027-04-10T23:59:59+00:00",
   "issuerOrg": "DigiCert Inc",
   "tlsVersion": "TLSv1.3",
   "chainValid": true,
@@ -442,7 +442,7 @@
  },
  {
   "host": "etsy.com",
-  "daysLeft": 196,
+  "daysLeft": 195,
   "validTo": "2027-05-08T14:14:06+00:00",
   "issuerOrg": "GlobalSign nv-sa",
   "tlsVersion": "TLSv1.2",

@@ -1,19 +1,18 @@
 host,daysLeft,validTo,issuerOrg,tlsVersion,chainValid,hostnameMatch
-facebook.com,7,2026-10-31T23:59:59+00:00,DigiCert Inc,TLSv1.3,True,True
-instagram.com,7,2026-10-31T23:59:59+00:00,DigiCert Inc,TLSv1.3,True,True
-whatsapp.com,7,2026-10-31T23:59:59+00:00,DigiCert Inc,TLSv1.3,True,True
-paypal.com,32,2026-11-25T23:59:59+00:00,DigiCert Inc,TLSv1.3,True,True
-bol.com,35,2026-11-28T09:56:27+00:00,Let's Encrypt,TLSv1.3,True,True
+facebook.com,8,2026-11-01T23:59:59+00:00,DigiCert Inc,TLSv1.3,True,True
+instagram.com,8,2026-11-01T23:59:59+00:00,DigiCert Inc,TLSv1.3,True,True
+whatsapp.com,8,2026-11-01T23:59:59+00:00,DigiCert Inc,TLSv1.3,True,True
+bol.com,34,2026-11-28T09:56:27+00:00,Let's Encrypt,TLSv1.3,True,True
 github.com,36,2026-11-29T23:59:59+00:00,Sectigo Limited,TLSv1.3,True,True
+aliexpress.com,39,2026-12-03T11:16:15+00:00,GlobalSign nv-sa,TLSv1.2,True,True
 tiktok.com,40,2026-12-03T23:59:59+00:00,DigiCert Inc,TLSv1.3,True,True
-aliexpress.com,40,2026-12-03T11:16:15+00:00,GlobalSign nv-sa,TLSv1.2,True,True
 medium.com,41,2026-12-04T21:48:00+00:00,Google Trust Services,TLSv1.3,True,True
 cloudflare.com,41,2026-12-04T23:29:33+00:00,Google Trust Services,TLSv1.3,True,True
+x.com,46,2026-12-10T03:08:18+00:00,Let's Encrypt,TLSv1.3,True,True
 openai.com,51,2026-12-15T05:59:47+00:00,Google Trust Services,TLSv1.3,True,True
 google.com,58,2026-12-21T18:38:32+00:00,Google Trust Services,TLSv1.3,True,True
 youtube.com,58,2026-12-21T18:38:32+00:00,Google Trust Services,TLSv1.3,True,True
 apple.com,60,2026-12-23T19:10:23+00:00,Apple Inc.,TLSv1.3,True,True
-x.com,64,2026-12-27T20:09:53+00:00,Let's Encrypt,TLSv1.3,True,True
 zoom.us,66,2026-12-29T23:59:59+00:00,DigiCert Inc,TLSv1.3,True,True
 yahoo.com,67,2026-12-30T23:59:59+00:00,DigiCert Inc,TLSv1.3,True,True
 wikipedia.org,70,2027-01-02T18:34:50+00:00,Let's Encrypt,TLSv1.3,True,True
@@ -21,13 +20,13 @@ adobe.com,72,2027-01-04T23:59:59+00:00,DigiCert Inc,TLSv1.3,True,True
 slack.com,72,2027-01-05T08:37:07+00:00,Let's Encrypt,TLSv1.3,True,True
 shopify.com,74,2027-01-06T20:15:23+00:00,Google Trust Services,TLSv1.3,True,True
 notion.so,77,2027-01-10T00:40:01+00:00,Google Trust Services,TLSv1.3,True,True
-stackoverflow.com,79,2027-01-11T12:11:49+00:00,Let's Encrypt,TLSv1.3,True,True
+stackoverflow.com,78,2027-01-11T12:11:49+00:00,Let's Encrypt,TLSv1.3,True,True
 spotify.com,91,2027-01-23T23:59:59+00:00,DigiCert Inc,TLSv1.3,True,True
 bbc.co.uk,91,2027-01-24T05:46:23+00:00,GlobalSign nv-sa,TLSv1.3,True,True
 bing.com,92,2027-01-25T08:39:09+00:00,Microsoft Corporation,TLSv1.3,True,True
 airbnb.com,96,2027-01-28T23:59:59+00:00,DigiCert Inc,TLSv1.2,True,True
-microsoft.com,98,2027-01-30T14:50:49+00:00,Microsoft Corporation,TLSv1.3,True,True
-walmart.com,110,2027-02-11T09:58:01+00:00,GlobalSign nv-sa,TLSv1.3,True,True
+microsoft.com,97,2027-01-30T14:50:49+00:00,Microsoft Corporation,TLSv1.3,True,True
+walmart.com,109,2027-02-11T09:58:01+00:00,GlobalSign nv-sa,TLSv1.3,True,True
 marktplaats.nl,114,2027-02-15T23:59:59+00:00,Amazon,TLSv1.3,True,True
 reddit.com,115,2027-02-16T23:59:59+00:00,DigiCert Inc,TLSv1.3,True,True
 netflix.com,117,2027-02-18T21:41:48+00:00,DigiCert Inc,TLSv1.3,True,True
@@ -35,17 +34,18 @@ imdb.com,117,2027-02-18T23:59:59+00:00,Amazon,TLSv1.3,True,True
 nu.nl,119,2027-02-20T23:59:59+00:00,DigiCert Inc,TLSv1.3,True,True
 coolblue.nl,123,2027-02-24T23:59:59+00:00,Amazon,TLSv1.3,True,True
 pinterest.com,125,2027-02-26T23:59:59+00:00,DigiCert Inc,TLSv1.3,True,True
-ing.nl,140,2027-03-13T14:37:23+00:00,IdenTrust,TLSv1.3,True,True
+ing.nl,139,2027-03-13T14:37:23+00:00,IdenTrust,TLSv1.3,True,True
 ns.nl,141,2027-03-14T23:59:59+00:00,DigiCert Inc,TLSv1.3,True,True
 kpn.com,141,2027-03-14T23:59:59+00:00,Sectigo Limited,TLSv1.3,True,True
 nytimes.com,146,2027-03-19T23:59:59+00:00,DigiCert Inc,TLSv1.3,True,True
-cnn.com,148,2027-03-21T10:00:42+00:00,GlobalSign nv-sa,TLSv1.3,True,True
+cnn.com,147,2027-03-21T10:00:42+00:00,GlobalSign nv-sa,TLSv1.3,True,True
 amazon.com,163,2027-04-05T23:59:59+00:00,DigiCert Inc,TLSv1.3,True,True
 salesforce.com,167,2027-04-09T23:59:59+00:00,DigiCert Inc,TLSv1.3,True,True
+paypal.com,168,2027-04-10T23:59:59+00:00,DigiCert Inc,TLSv1.3,True,True
 twitch.tv,170,2027-04-12T19:50:18+00:00,GlobalSign nv-sa,TLSv1.3,True,True
 dropbox.com,175,2027-04-17T23:59:59+00:00,DigiCert Inc,TLSv1.3,True,True
 rabobank.nl,179,2027-04-21T23:59:59+00:00,Sectigo Limited,TLSv1.3,True,True
 linkedin.com,180,2027-04-22T23:59:59+00:00,DigiCert Inc,TLSv1.3,True,True
 ebay.com,180,2027-04-22T23:59:59+00:00,Sectigo Limited,TLSv1.3,True,True
 booking.com,180,2027-04-22T23:59:59+00:00,DigiCert Inc,TLSv1.3,True,True
-etsy.com,196,2027-05-08T14:14:06+00:00,GlobalSign nv-sa,TLSv1.2,True,True
+etsy.com,195,2027-05-08T14:14:06+00:00,GlobalSign nv-sa,TLSv1.2,True,True
