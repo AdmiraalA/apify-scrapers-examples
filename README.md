@@ -60,5 +60,15 @@ Full data: [`data/youtube_channel_leaderboard.csv`](data/youtube_channel_leaderb
 
 Full data: [`data/ssl_expiry_popular_sites.csv`](data/ssl_expiry_popular_sites.csv) · [`.json`](data/ssl_expiry_popular_sites.json) · refresh it yourself for any topic: [admirala/ssl-certificate-expiry-checker](https://apify.com/admirala/ssl-certificate-expiry-checker)
 
+## AI image upscaling: before / after (Real-ESRGAN, 4x)
+
+| Before: 160×120 (shown enlarged, pixelated) | After: 640×480, AI-upscaled in 2.2 s |
+|---|---|
+| ![before](upscaling/before_enlarged.png) | ![after](upscaling/after.png) |
+
+Original input: [`upscaling/before.png`](upscaling/before.png) (crop of Van Gogh, *The Starry Night*, public domain).
+Upscale your own images in bulk: [admirala/ai-image-upscaler-realesrgan](https://apify.com/admirala/ai-image-upscaler-realesrgan)
+($0.0165 per image).
+
 ---
 *Disclosure: I build the Apify Actors used to collect this data.*
